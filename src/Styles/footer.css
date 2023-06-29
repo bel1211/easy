@@ -1,0 +1,41 @@
+.contem-footer{
+    color:white;
+    margin: auto;
+    height: 20vh;
+    background-color:#FF6501;
+   
+    }
+.link-email{
+    color: white;
+    text-decoration:none;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.link-email:hover{
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.342); 
+    
+}
+
+.termoss{
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.termoss:hover{
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.342); 
+}
+
+
+p{
+    color:white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
